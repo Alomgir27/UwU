@@ -17,8 +17,8 @@ function App() {
       <Router>
         <Navbar />
             <Switch>
-              <Route  exact path='/' > <Home /> </Route>
-              <Route  path='/home' > <Home /> </Route>
+              <Route  exact path='/UwU' active> <Home /> </Route>
+              <Route  exact path='/' active> <Home /> </Route>
               <Route  path='/products' > <Products /> </Route>
               <Route  path='/services' > <Services /> </Route>
               <Route  path='/sign-up' > <SignUp /> </Route>
