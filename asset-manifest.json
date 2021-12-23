@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/UwU/static/css/main.575aaec4.css",
+    "main.js": "/UwU/static/js/main.deb94e3c.js",
+    "static/media/img-2.jpg": "/UwU/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/UwU/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-home.jpg": "/UwU/static/media/img-home.c034239ee9a63564602b.jpg",
+    "static/media/img-8.jpg": "/UwU/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/UwU/index.html",
+    "main.575aaec4.css.map": "/UwU/static/css/main.575aaec4.css.map",
+    "main.deb94e3c.js.map": "/UwU/static/js/main.deb94e3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.575aaec4.css",
+    "static/js/main.deb94e3c.js"
+  ]
+}
